@@ -35,7 +35,7 @@ const products = [
 
         unit: "por unidad",
 
-        image: "src/img/IMG2.WEBP",
+        image: "src/img/IMG2.webp",
 
         tag: "Favorito",
 
@@ -54,7 +54,7 @@ const products = [
 
         unit: "por kilo",
 
-        image: "src/img/IMG3.WEBP",
+        image: "src/img/IMG3.webp",
 
         tag: "Por kilo",
 
@@ -73,7 +73,7 @@ const products = [
 
         unit: "por kilo",
 
-        image: "src/img/IMG4.WEBP",
+        image: "src/img/IMG4.webp",
 
         tag: "Por kilo",
 
