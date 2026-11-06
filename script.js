@@ -35,7 +35,7 @@ const products = [
 
         unit: "por unidad",
 
-        image: "src/img/IMG2.webp",
+        image: "src/img/IMG1.webp",
 
         tag: "Favorito",
 
@@ -64,16 +64,16 @@ const products = [
     {
         id: "menudencia",
 
-        name: "Menudencia fresca",
+        name: "Parte Pierna",
 
         description:
-            "Para complementar tus caldos y preparaciones caseras.",
+            "Para complementar tus comidas y preparaciones caseras.",
 
         price: 10.00,
 
         unit: "por kilo",
 
-        image: "src/img/IMG4.webp",
+        image: "src/img/IMG2.webp",
 
         tag: "Por kilo",
 
